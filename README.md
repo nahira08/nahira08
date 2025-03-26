@@ -1,5 +1,5 @@
-# 💌 About this lil dev: 
-haii~ i'm **nahiraa** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> (or ainii), a curious lil dev who codes quietly,  
+# 💌 About this lil dev: <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng1OTNzODVyM3kwZWxjcHBvcTc4M2g5MWcweDZuNmo2dG04ZWN2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tFqKgC5KSoZRm/giphy.gif" width="50">
+haii~ i'm **nahiraa** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> (or ainii), a curious lil dev who codes quietly,  
 listens to Kpop-songs or mellow indo, and dreams in hex colors 💫💻
 
 ---
