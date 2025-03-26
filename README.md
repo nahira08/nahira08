@@ -1,5 +1,5 @@
 # 💌 About this lil dev:
-haii~ i'm **nahiraa** (or ainii), a curious lil dev who codes quietly,  
+haii~ i'm **nahiraa** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> (or ainii), a curious lil dev who codes quietly,  
 listens to Kpop-songs or mellow indo, and dreams in hex colors 💫💻
 
 ---
