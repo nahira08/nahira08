@@ -12,8 +12,8 @@ listens to Kpop-songs or mellow indo, and dreams in hex colors 💫💻
 ---
 
 ## 🌐 socials:
-[![Instagram](https://img.shields.io/badge/ig-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nuyureea/)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-aini-911897321/)  
+[![Instagram](https://img.shields.io/badge/ig-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nuyureea/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-aini-911897321/)
 [![Email](https://img.shields.io/badge/email-%23ffb6c1.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurainistudy08@gmail.com)
 
 ---
