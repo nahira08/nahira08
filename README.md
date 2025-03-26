@@ -37,7 +37,6 @@ listens to Kpop-songs or mellow indo, and dreams in hex colors 💫💻
 
 ### 🧠 top languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahira08&layout=compact&theme=tokyonight&title_color=ffb6c1&hide_border=false)
-![Nahira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahira08&show_icons=true&theme=tokyonight&title_color=ffb6c1&icon_color=ffb6c1)
 
 ---
 
