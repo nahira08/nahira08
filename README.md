@@ -1,4 +1,4 @@
-## 💌 About this lil dev:
+# 💌 About this lil dev:
 haii~ i'm **nahiraa** (or ainii), a curious lil dev who codes quietly,  
 listens to Kpop-songs or mellow indo, and dreams in hex colors 💫💻
 
@@ -11,21 +11,21 @@ listens to Kpop-songs or mellow indo, and dreams in hex colors 💫💻
 
 ---
 
-## 🌐 socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/ig-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nuyureea/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-aini-911897321/)
 [![Email](https://img.shields.io/badge/email-%23ffb6c1.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurainistudy08@gmail.com)
 
 ---
 
-## 🧸 my soft-coded essentials:
+## 🧸 My soft-coded essentials:
 - 💻 front-end: `HTML`, `CSS`, `JavaScript`
 - 🎨 design: `Figma`, `Clip Studio Paint`, `Illustrator`
 - 💡 tools: `VScode`, `Canva`, `Aseprite`, `Blender`
 
 ---
 
-## ☁️ lil extras:
+## ☁️ Lil extras:
 - 🌌 dream IDE theme? celestial pink skies and floating terminal windows 🌸🪐
 - 🎀 every project gets a name… like a code i raise with love 🧸✨
 - 🎧 coding late w/ Kpop songs + latte = comfort combo 🩵
