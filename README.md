@@ -1,10 +1,10 @@
-## 💌 about this lil dev:
-hiyaaa~ i'm **nahiraa** (or ainii), a curious lil dev who codes quietly,  
+## 💌 About this lil dev:
+haii~ i'm **nahiraa** (or ainii), a curious lil dev who codes quietly,  
 listens to Kpop-songs or mellow indo, and dreams in hex colors 💫💻
 
 ---
 
-## ✨ currently:
+## 🎀 Currently:
 - 🌟 learning: **UI/UX design**, **data crumbs + ML daydreams**, **tiny web things**
 - 💬 collabing on: cozy web apps, interactive book stories, Illustration
 - 💡 future wish: become an AI/ML engineer & build my own cozy lil' AI someday 🤖✨
@@ -18,17 +18,17 @@ listens to Kpop-songs or mellow indo, and dreams in hex colors 💫💻
 
 ---
 
-## 🧸 tech stack i cuddle with:
-- 💻 front-end: `HTML`, `CSS`, `JavaScript`, `React`
-- 🎨 design: `Figma`, `Clip Studio`, `Illustrator`
+## 🧸 my soft-coded essentials:
+- 💻 front-end: `HTML`, `CSS`, `JavaScript`
+- 🎨 design: `Figma`, `Clip Studio Paint`, `Illustrator`
 - 💡 tools: `VScode`, `Canva`, `Aseprite`, `Blender`
 
 ---
 
 ## ☁️ lil extras:
-- 🍓 dream IDE theme? strawberry milk aesthetic
-- 🐾 i name all my projects like they're my pets
-- 🎵 coding late w/ lo-fi + latte = comfort combo
+- 🌌 dream IDE theme? celestial pink skies and floating terminal windows 🌸🪐
+- 🎀 every project gets a name… like a code i raise with love 🧸✨
+- 🎧 coding late w/ Kpop songs + latte = comfort combo 🩵
 
 ---
 
