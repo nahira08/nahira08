@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nahiraa</h1>
 <h3 align="center">Analyzing... Machine Learning Enthusiast & Informatics Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahira08" alt="nahira08" /></a> </p>
 
 - 🌱 I’m currently learning **Python for Machine Learning & AI**
 
